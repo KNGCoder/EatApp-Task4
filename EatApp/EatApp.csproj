@@ -8,8 +8,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\Matebook\Documents\Доки\Практика ПМ\MainWindowT4.xaml.cs" Link="MainWindowT4.xaml.cs" />
-  </ItemGroup>
-
 </Project>

@@ -11,5 +11,10 @@
                     VerticalAlignment="Center">
             <DataGrid x:Name="MyData"/>
         </StackPanel>
+        <Button HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"
+                Margin="0 0 0 10"
+                Content="GO"
+                Click="Button_Click"/>
     </Grid>
 </Window>
